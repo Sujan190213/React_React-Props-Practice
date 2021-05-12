@@ -1,2 +1,2 @@
-# React_React-Props-Practice
+# React_React-Styling-Practice
 Created with CodeSandbox
